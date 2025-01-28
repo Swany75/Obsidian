@@ -3,14 +3,14 @@ Aqui hi ha tots els apunts que he fet
 
 ![image](https://github.com/user-attachments/assets/d83be0e9-0162-4917-bffe-92ddfbe58dac)
 
-📂 My Obsidian Vault\n
-├─ 📱 Applications
-├─ 🗄️ Databases
-├─ 🛠️ Development
-├─ 🎮 Gaming
-├─ 🔒 Hacking
-├─ 🔧 Hardware
-├─ 🌐 Networking
+📂 My Obsidian Vault<br>
+├─ 📱 Applications<br>
+├─ 🗄️ Databases<br>
+├─ 🛠️ Development<br>
+├─ 🎮 Gaming<br>
+├─ 🔒 Hacking<br>
+├─ 🔧 Hardware<br>
+├─ 🌐 Networking<br>
 └─ 🖥️ Systems
 
 Repositoris que he emprat per els meus apunts
