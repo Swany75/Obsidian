@@ -2,7 +2,9 @@
 <br>
 Aqui hi ha tots els apunts que he fet
 <br>
+
 ![image](https://github.com/user-attachments/assets/d83be0e9-0162-4917-bffe-92ddfbe58dac)
+
 <br>
 ## Main Tree
 <br>
