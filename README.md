@@ -1,4 +1,5 @@
 # My-Obsidian-Vault
+<br>
 Aqui hi ha tots els apunts que he fet
 
 ![image](https://github.com/user-attachments/assets/d83be0e9-0162-4917-bffe-92ddfbe58dac)
@@ -13,11 +14,14 @@ Aqui hi ha tots els apunts que he fet
 ├─ 🌐 Networking<br>
 └─ 🖥️ Systems
 
-Repositoris que he emprat per els meus apunts
+## Repositoris i recursos emprats
 
-Apunts de Hacking Ètic
+### Apunts de Hacking Ètic
 - https://github.com/Maalfer/Conocimiento_Obsidian
 - https://github.com/rubenza02/HackingNotes
 
-Personalitzacio d'Obsidian
+### Personalitzacio d'Obsidian
 - https://github.com/nlx-404/.obsidian
+
+### Curs d'Obsidian que he seguit
+- https://www.youtube.com/playlist?list=PLWUX-KZsnKXSKOjd4WIbqB5GsHORz88JS
