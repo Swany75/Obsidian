@@ -3,8 +3,8 @@
 Aqui hi ha tots els apunts que he fet<br>
 
 ![image](https://github.com/user-attachments/assets/d83be0e9-0162-4917-bffe-92ddfbe58dac)
+![image](https://github.com/user-attachments/assets/0759b8ed-32b2-44fb-9091-9c4a014577d1)
 
-<br> 
 
 ## Main Tree
 
