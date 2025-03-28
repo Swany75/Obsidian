@@ -1,0 +1,40 @@
+/* 
+    CUSTOM CONFIGURATION HERE 
+
+    The theme that i always use is Encore but i this are my adjustments to make it more personal.
+    I leave the default theme in case you want to use it. https://github.com/carbonateb/obsidian-encore-theme
+    Paste the code in the theme.css file in your vault folder: .obsidian/themes/Encore/theme.css
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@200;300;400;500;600;700;800&display=swap');
+
+* {
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+}
+
+.cm-s-obsidian img,
+.markdown-preview-view img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.cm-s-obsidian table,
+.markdown-preview-view table {
+  margin: 0 auto;
+  width: auto;
+  border: 2px solid #ffffff !important;
+  border-collapse: collapse !important;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+}
+
+.markdown-preview-view th, 
+.markdown-preview-view td {
+  border: 2px solid #ffffff !important;
+  padding: 8px;
+}
